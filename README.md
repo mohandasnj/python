@@ -1,2 +1,2 @@
 # python
-Implementation of using python
+Python projects
